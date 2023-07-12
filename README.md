@@ -1,7 +1,7 @@
 # Kit-Kat-Toe
 Kit-Kat-Toe Game
 # Game Rules & Instructions
-- Board consists of 3*3 grid and 3 'X' pieces and 'O' pieces.
+- Board consists of 3*3 grid and 3 'X' pieces and 3 'O' pieces.
 - This is two player game , each player have to play with three 'X' pieces or three  'O pieces.
 - Initially board will be empty , each player have to fill it one by one until 6 pieces are placed inside the board.
 - First turn will be decided randomly,and followed by second player.
