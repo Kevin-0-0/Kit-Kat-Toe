@@ -1,5 +1,6 @@
 # Kit-Kat-Toe
-Kit-Kat-Toe Game
+A simple variation of popular Tic-Tac-Toe game.
+
 # Game Rules & Instructions
 - Board consists of 3*3 grid and 3 'X' pieces and 3 'O' pieces.
 - This is two player game , each player have to play with three 'X' pieces or three  'O' pieces.
@@ -13,4 +14,7 @@ Kit-Kat-Toe Game
 - ![Board](https://graph.org/file/5be7b627616be25a55ec3.png)
 - if you don't have any legal moves means your stalemated ,then your turn will be skipped and opponent can play again.
 - After 6 pieces are placed inside board ,the first player to get three of their pieces in a ROW or COLUMN wins the game.
-- Alert: Diagonally aligned pieces will not considered as win.  
+- Alert: Diagonally aligned pieces will not considered as win.
+# GAME-Play
+- Run the main-code.cpp file in any C++ compiler like VS Code or GCC.
+  
