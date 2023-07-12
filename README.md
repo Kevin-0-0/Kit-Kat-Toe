@@ -13,4 +13,4 @@ Kit-Kat-Toe Game
 - ![Board](https://graph.org/file/5be7b627616be25a55ec3.png)
 - if you don't have any legal moves means your stalemated ,then your turn will be skipped and opponent can play again.
 - The first player to get three of their pieces in a ROW or COLUMN wins the game.
-- Alert: Diagonal Aligned pieces will not considered as win.  
+- Alert: Diagonally aligned pieces will not considered as win.  
