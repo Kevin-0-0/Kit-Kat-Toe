@@ -1,3 +1,4 @@
 # Kit-Kat-Toe
 Kit-Kat-Toe Game
-# Game Rules/Instructions 
+# Game Rules & Instructions
+- [Rules]
