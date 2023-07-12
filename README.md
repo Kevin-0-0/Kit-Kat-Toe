@@ -13,7 +13,7 @@ A simple variation of popular Tic-Tac-Toe game.
 - CELL NUMBERING:
 - ![Board](https://graph.org/file/5be7b627616be25a55ec3.png)
 - if you don't have any legal moves means your stalemated ,then your turn will be skipped and opponent can play again.
-- After 6 pieces are placed inside board ,the first player to get three of their pieces in a ROW or COLUMN wins the game.
+- After 6 pieces are placed inside board ,in each turn player can move any one of his piece from initial cell to empty destination cell(adjacent cell), like this game will continue,the first player to get all three of their pieces in a ROW or COLUMN wins the game.
 - Alert: Diagonally aligned pieces will not considered as win.
 # GAME-Play
 - Run the main-code.cpp file in any C++ compiler like VS Code or GCC.
