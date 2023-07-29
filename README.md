@@ -17,7 +17,7 @@ A simple variation of popular Tic-Tac-Toe game.
 - Alert: Diagonally aligned pieces will not considered as win.
 
 ## Instructions to run:
-#### VS CODE
+#### VS code
 1. If you've Visual Studio Code installed in system
 2. Download `Two-Player-KKT-Game.cpp` file
 3. Simple run the file & Play
