@@ -17,17 +17,17 @@ A simple variation of popular Tic-Tac-Toe game.
 - Alert: Diagonally aligned pieces will not considered as win.
 
 ## Instructions to run:
-### VS CODE
+#### VS CODE
 1. If you've Visual Studio Code installed in system
 2. Download `Two-Player-KKT-Game.cpp` file
 3. Simple run the file & Play
     
-### Windows 
+#### Windows 
 1. Install a cpp compiler
 2. Open commmand prompt in the folder where program is saved(having MingW/GCC downloaded)
 3. `g++ Two-Player-KKT-Game.cpp -o output.exe` then run `output.exe`
 
-### Linux
+#### Linux
 1. Install a cpp compiler 
 2. Open terminal in the folder where program is saved
 3. `g++ Two-Player-KKT-Game.cpp -o output` then run `./output`
