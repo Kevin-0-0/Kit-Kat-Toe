@@ -1,7 +1,7 @@
 # Kit-Kat-Toe
 A simple variation of popular Tic-Tac-Toe game.
 
-# Game Rules & Instructions
+## Game Rules & Instructions
 - Board consists of 3*3 grid and 3 'X' pieces and 3 'O' pieces.
 - This is two player game , each player have to play with three 'X' pieces or three  'O' pieces.
 - Initially board will be empty , each player have to fill it one by one until 6 pieces are placed inside the board.
@@ -16,7 +16,7 @@ A simple variation of popular Tic-Tac-Toe game.
 - After 6 pieces are placed inside board ,in each turn player can move any one of his piece from initial cell to empty destination cell(adjacent cell), like this game will continue,the first player to get all three of their pieces in a `ROW or COLUMN wise` wins the game.
 - Alert: Diagonally aligned pieces will not considered as win.
 
-# Instructions to run:
+## Instructions to run:
 ### VS CODE
 1. If you've Visual Studio Code installed in system
 2. Download `Two-Player-KKT-Game.cpp` file
@@ -32,7 +32,7 @@ A simple variation of popular Tic-Tac-Toe game.
 2. Open terminal in the folder where program is saved
 3. `g++ Two-Player-KKT-Game.cpp -o output` then run `./output`
 
-# Upcoming Updates
-- Single Player Mode game
+## Upcoming Updates
+- Single Player game
 - Web-Based Game(Browser Game) 
   
