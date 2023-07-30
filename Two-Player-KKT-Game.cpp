@@ -2,6 +2,7 @@
 #include<string>
 #include<utility>
 #include<cstdlib> 
+#include<ctime>
 using namespace std;
 
 const int SIDE=3;
