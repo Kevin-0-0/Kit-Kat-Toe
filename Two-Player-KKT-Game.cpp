@@ -259,7 +259,8 @@ bool verifyInput(char board[][SIDE],int x1,int y1,int x2,int y2,char PLAYER){
 
 void showInstructions()
 {
-    printf("\t\t\t Kit-Kat-Toe\n\n");
+    printf("\n===\t===\t===\t===\t===\t===\t===\t===\t===\t===\t===\t\n\n");
+    printf("\t\t\t Kit-Kat-Toe Instructions \n\n");
     printf("->You can fill 1st 3 pieces in desired location and later you just have move the pieces\n");
     printf("->Choose a cell numbered from 1 to 9 as below and play\n");
     printf("->whoever first makes either row crossed or column crossed with their 3 pawns, he/she is the winner\n");
@@ -269,6 +270,6 @@ void showInstructions()
     printf("\t\t\t 4 | 5 | 6 \n");
     printf("\t\t\t------------\n");
     printf("\t\t\t 7 | 8 | 9 \n\n");
-    printf("-\t-\t-\t-\t-\t-\t-\t-\t-\n\n");
+    printf("\n===\t===\t===\t===\t===\t===\t===\t===\t===\t===\t===\t\n\n");
  
 }
