@@ -53,5 +53,5 @@ A simple variation of popular Tic-Tac-Toe game.
 - MiniMax Algorithm : https://en.wikipedia.org/wiki/Minimax
 - GeeksForGeeks Articles: [GfGLink1](https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/) || [GfGLink2](https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-for-2-person-game-user-vs-user/)
 - Clear and best visual explanation to understand MiniMax : https://www.youtube.com/watch?v=l-hh51ncgDI <br>
-- _"Special thanks to all the listed invaluable resources that assisted in making the project possible! 🙏 "_
+- _" Special thanks to all the listed invaluable resources that assisted in making the project possible! 🙏 "_
   
