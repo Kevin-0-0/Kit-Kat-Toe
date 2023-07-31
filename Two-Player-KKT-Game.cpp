@@ -4,7 +4,7 @@
 #include<cstdlib> 
 #include<ctime>
 using namespace std;
-
+ 
 const int SIDE=3;
 const char PLAYER1='X' , PLAYER2='O';
 string nameP1,nameP2;
