@@ -28,7 +28,7 @@ bool verifyInput(char board[][SIDE],int x1,int y1,int x2,int y2,char PLAYER);
 
 //Main Code
 int main(){
-    cout<<"-----------------> KIT-KAT-TOE <------------------\n=>Play against COMPUTER, Try to Beat it: \n";
+    cout<<"-----------------> KIT-KAT-TOE <------------------\n=>Play against COMPUTER,Try to Beat it: \n";
     cout<<"Enter your name :";
     string name;
     cin>>name;
