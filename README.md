@@ -46,12 +46,8 @@ A simple variation of popular Tic-Tac-Toe game.
 ## What's new ??
 - [Single Player Game](https://github.com/Kevin-0-0/Kit-Kat-Toe/blob/main/Single-Player-KKT-Game.cpp)
 
-## Upcoming Updates
-- Web-Based Game(Browser Game)
-
-## References and Acknowledgements
+## References
 - MiniMax Algorithm : https://en.wikipedia.org/wiki/Minimax
 - GeeksForGeeks Articles: [GfGLink1](https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/) || [GfGLink2](https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-for-2-person-game-user-vs-user/)
 - Clear and best visual explanation to understand MiniMax : https://www.youtube.com/watch?v=l-hh51ncgDI <br>
-- _" Special thanks to all the listed invaluable resources that assisted in making the project possible! 🙏 "_
   
